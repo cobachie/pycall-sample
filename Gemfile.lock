@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    matplotlib (1.1.0)
+      pycall (>= 1.0.0)
+    pycall (1.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  matplotlib
+  pycall
+
+BUNDLED WITH
+   2.1.2
